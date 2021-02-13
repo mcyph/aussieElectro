@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/aussieElectro/static/css/main.57b822a2.chunk.css",
-    "main.js": "/aussieElectro/static/js/main.470398a9.chunk.js",
-    "main.js.map": "/aussieElectro/static/js/main.470398a9.chunk.js.map",
-    "runtime-main.js": "/aussieElectro/static/js/runtime-main.55e4441f.js",
-    "runtime-main.js.map": "/aussieElectro/static/js/runtime-main.55e4441f.js.map",
-    "static/js/2.ae368f7b.chunk.js": "/aussieElectro/static/js/2.ae368f7b.chunk.js",
-    "static/js/2.ae368f7b.chunk.js.map": "/aussieElectro/static/js/2.ae368f7b.chunk.js.map",
+    "main.css": "/aussieElectro/static/css/main.a184a68a.chunk.css",
+    "main.js": "/aussieElectro/static/js/main.e04339e3.chunk.js",
+    "main.js.map": "/aussieElectro/static/js/main.e04339e3.chunk.js.map",
+    "runtime-main.js": "/aussieElectro/static/js/runtime-main.24f36cbe.js",
+    "runtime-main.js.map": "/aussieElectro/static/js/runtime-main.24f36cbe.js.map",
+    "static/js/2.4fd63618.chunk.js": "/aussieElectro/static/js/2.4fd63618.chunk.js",
+    "static/js/2.4fd63618.chunk.js.map": "/aussieElectro/static/js/2.4fd63618.chunk.js.map",
     "index.html": "/aussieElectro/index.html",
-    "precache-manifest.0845d4b20ca3a2693951df6387b4078a.js": "/aussieElectro/precache-manifest.0845d4b20ca3a2693951df6387b4078a.js",
+    "precache-manifest.205c305ad0c368b1a4d315b69bed1bea.js": "/aussieElectro/precache-manifest.205c305ad0c368b1a4d315b69bed1bea.js",
     "service-worker.js": "/aussieElectro/service-worker.js",
-    "static/css/main.57b822a2.chunk.css.map": "/aussieElectro/static/css/main.57b822a2.chunk.css.map",
-    "static/js/2.ae368f7b.chunk.js.LICENSE.txt": "/aussieElectro/static/js/2.ae368f7b.chunk.js.LICENSE.txt",
+    "static/css/main.a184a68a.chunk.css.map": "/aussieElectro/static/css/main.a184a68a.chunk.css.map",
+    "static/js/2.4fd63618.chunk.js.LICENSE.txt": "/aussieElectro/static/js/2.4fd63618.chunk.js.LICENSE.txt",
     "static/media/yearDistribution.csv": "/aussieElectro/static/media/yearDistribution.d787f0f2.csv"
   },
   "entrypoints": [
-    "static/js/runtime-main.55e4441f.js",
-    "static/js/2.ae368f7b.chunk.js",
-    "static/css/main.57b822a2.chunk.css",
-    "static/js/main.470398a9.chunk.js"
+    "static/js/runtime-main.24f36cbe.js",
+    "static/js/2.4fd63618.chunk.js",
+    "static/css/main.a184a68a.chunk.css",
+    "static/js/main.e04339e3.chunk.js"
   ]
 }
