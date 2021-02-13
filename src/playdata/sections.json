@@ -2,6 +2,58 @@
     "sections": [
         {
            
+            "year": 1920,
+            "paragraphs": [
+                {
+                    "text": "This is a scrollyteller developed in React. Data is displayed on the map to the right as the user scrolls. The content on this lefthand side is defined via json. For each paragraph text and map highlights, hyperlinks and other actions can be defined. Actions include the filtering of dots on the map, and this functionality will be extended."
+                },
+                {
+                    "text": "The longterm goal of this project is to make this usable for generic data and enable the user to create a scrollyteller with a map- by only providing the narrative, the data to be visualised on the map, and the actions that should happen as the user scrolls."
+                }
+               
+            ]
+        },
+        {
+           
+            "year": 1930,
+            "paragraphs": [
+                {
+                    "text": "This is a scrollyteller developed in React. Data is displayed on the map to the right as the user scrolls. The content on this lefthand side is defined via json. For each paragraph text and map highlights, hyperlinks and other actions can be defined. Actions include the filtering of dots on the map, and this functionality will be extended."
+                },
+                {
+                    "text": "The longterm goal of this project is to make this usable for generic data and enable the user to create a scrollyteller with a map- by only providing the narrative, the data to be visualised on the map, and the actions that should happen as the user scrolls."
+                }
+               
+            ]
+        },
+        {
+           
+            "year": 1940,
+            "paragraphs": [
+                {
+                    "text": "This is a scrollyteller developed in React. Data is displayed on the map to the right as the user scrolls. The content on this lefthand side is defined via json. For each paragraph text and map highlights, hyperlinks and other actions can be defined. Actions include the filtering of dots on the map, and this functionality will be extended."
+                },
+                {
+                    "text": "The longterm goal of this project is to make this usable for generic data and enable the user to create a scrollyteller with a map- by only providing the narrative, the data to be visualised on the map, and the actions that should happen as the user scrolls."
+                }
+               
+            ]
+        },
+        {
+           
+            "year": 1950,
+            "paragraphs": [
+                {
+                    "text": "This is a scrollyteller developed in React. Data is displayed on the map to the right as the user scrolls. The content on this lefthand side is defined via json. For each paragraph text and map highlights, hyperlinks and other actions can be defined. Actions include the filtering of dots on the map, and this functionality will be extended."
+                },
+                {
+                    "text": "The longterm goal of this project is to make this usable for generic data and enable the user to create a scrollyteller with a map- by only providing the narrative, the data to be visualised on the map, and the actions that should happen as the user scrolls."
+                }
+               
+            ]
+        },
+        {
+           
             "year": 1960,
             "paragraphs": [
                 {
@@ -85,56 +137,7 @@
                     "text": "The longterm goal of this project is to make this usable for generic data and enable the user to create a scrollyteller with a map- by only providing the narrative, the data to be visualised on the map, and the actions that should happen as the user scrolls."
                 }
             ]
-        },
-
-        {
-            "year": 2012,
-            "paragraphs": [
-                {
-                    "text": "This is a scrollyteller developed in React. Data is displayed on the map to the right as the user scrolls. The content on this lefthand side is defined via json. For each paragraph text and map highlights, hyperlinks and other actions can be defined. Actions include the filtering of dots on the map, and this functionality will be extended."
-                },
-                {
-                    "text": "The longterm goal of this project is to make this usable for generic data and enable the user to create a scrollyteller with a map- by only providing the narrative, the data to be visualised on the map, and the actions that should happen as the user scrolls."
-                }
-            ]
-        },
-   
-        {
-            "year": 2014,
-            "paragraphs": [
-                {
-                    "text": "This is a scrollyteller developed in React. Data is displayed on the map to the right as the user scrolls. The content on this lefthand side is defined via json. For each paragraph text and map highlights, hyperlinks and other actions can be defined. Actions include the filtering of dots on the map, and this functionality will be extended."
-                },
-                {
-                    "text": "The longterm goal of this project is to make this usable for generic data and enable the user to create a scrollyteller with a map- by only providing the narrative, the data to be visualised on the map, and the actions that should happen as the user scrolls."
-                }
-            ]
-        },
-   
-        {
-            "year": 2016,
-            "paragraphs": [
-                {
-                    "text": "This is a scrollyteller developed in React. Data is displayed on the map to the right as the user scrolls. The content on this lefthand side is defined via json. For each paragraph text and map highlights, hyperlinks and other actions can be defined. Actions include the filtering of dots on the map, and this functionality will be extended."
-                },
-                {
-                    "text": "The longterm goal of this project is to make this usable for generic data and enable the user to create a scrollyteller with a map- by only providing the narrative, the data to be visualised on the map, and the actions that should happen as the user scrolls."
-                }
-            ]
-        },
-   
-        {
-            "year": 2018,
-            "paragraphs": [
-                {
-                    "text": "This is a scrollyteller developed in React. Data is displayed on the map to the right as the user scrolls. The content on this lefthand side is defined via json. For each paragraph text and map highlights, hyperlinks and other actions can be defined. Actions include the filtering of dots on the map, and this functionality will be extended."
-                },
-                {
-                    "text": "The longterm goal of this project is to make this usable for generic data and enable the user to create a scrollyteller with a map- by only providing the narrative, the data to be visualised on the map, and the actions that should happen as the user scrolls."
-                }
-            ]
-        },
-  
+        },  
         {
             "year": 2020,
             "paragraphs": [
