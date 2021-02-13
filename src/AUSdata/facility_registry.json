@@ -6764,6 +6764,25 @@
               -33.085519
            ]
         }
+     },
+              {
+        "type": "Feature",
+        "properties": {
+           "capacity": 279,
+           "type2": "gas_ocgt",
+           "type": "Gas",
+           "site": "Channel Island",
+           "state": "NT",
+           "yearStart": 1986,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              130.8665437,
+              -12.554503
+           ]
+        }
      }
      ]
     
