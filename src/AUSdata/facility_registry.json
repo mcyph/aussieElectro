@@ -6783,6 +6783,158 @@
               -12.554503
            ]
         }
+     },
+                      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 129,
+           "type2": "gas_ocgt",
+           "type": "Gas",
+           "site": "Weddell",
+           "state": "NT",
+           "yearStart": 2008,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              130.950184,
+              -12.577119
+           ]
+        }
+     },
+              {
+        "type": "Feature",
+        "properties": {
+           "capacity": 36.5,
+           "type2": "gas_ocgt",
+           "type": "Gas",
+           "site": "Katherine",
+           "state": "NT",
+           "yearStart": 1987,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              132.243939,
+              -14.458674
+           ]
+        }
+     },
+              {
+        "type": "Feature",
+        "properties": {
+           "capacity": 26.6,
+           "type2": "gas_ocgt",
+           "type": "Gas",
+           "site": "Pine Creek",
+           "state": "NT",
+           "yearStart": 1988,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              131.86161,
+              -13.78467
+           ]
+        }
+     },
+              {
+        "type": "Feature",
+        "properties": {
+           "capacity": 44.1,
+           "type2": "gas_ocgt",
+           "type": "Gas",
+           "site": "Ron Goodin",
+           "state": "NT",
+           "yearStart": 1973,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              133.8902542,
+              -23.7088333
+           ]
+        }
+     },
+              {
+        "type": "Feature",
+        "properties": {
+           "capacity": 77,
+           "type2": "gas_ocgt",
+           "type": "Gas",
+           "site": "Owen Springs",
+           "state": "NT",
+           "yearStart": 2011,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              133.82347084442745,
+              -23.86370980192623
+           ]
+        }
+     },
+            {
+        "type": "Feature",
+        "properties": {
+           "capacity": 19.8,
+           "type2": "gas_ocgt",
+           "type": "Gas",
+           "site": "Tennant Creek",
+           "state": "NT",
+           "yearStart": 1980,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              134.176003,
+              -19.654623
+           ]
+        }
+     },
+            {
+        "type": "Feature",
+        "properties": {
+           "capacity": 11,
+           "type2": "gas_cng",
+           "type": "Gas",
+           "site": "Yulara",
+           "state": "NT",
+           "yearStart": 1980,
+           "yearEnd": 1999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              130.991459,
+              -25.231890
+           ]
+        }
+     },
+            {
+        "type": "Feature",
+        "properties": {
+           "capacity": 77,
+           "type2": "gas_ocgt",
+           "type": "Gas",
+           "site": "Kings Canyon",
+           "state": "NT",
+           "yearStart": 1980,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              131.507014,
+              -24.247453
+           ]
+        }
      }
      ]
     
