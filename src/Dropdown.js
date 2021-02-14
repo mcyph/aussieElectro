@@ -3,11 +3,12 @@
 <Dropdown.Toggle variant="success" id="dropdown-basic">
   </Dropdown.Toggle>
   <div>
-  <DropdownButton
+  <DropdownButton>
   as={ButtonGroup}
   menuAlign={{ lg: 'right' }}
   title="Location"
   id="dropdownmenu"
+  </DropdownButton>
   </div>
   
   <Dropdown.Toggle variant="success" id="dropdown-basic">
