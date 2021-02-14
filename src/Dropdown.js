@@ -7,7 +7,7 @@
   as={ButtonGroup}
   menuAlign={{ lg: 'right' }}
   title="Location"
-  id="dropdown-menu"
+  id="dropdownmenu"
   >
   
   <Dropdown.Toggle variant="success" id="dropdown-basic">
