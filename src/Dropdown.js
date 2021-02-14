@@ -1,7 +1,7 @@
 // You must import Dropdown, DropdownButton and ButtonGroup to be able to make them usable
-import Dropdown from 'react-Dropdown'
-import DropdownButton from 'react-DropdownButton'
-import ButtonGroup from 'react-ButtonGroup'
+import Dropdown from 'react-bootstrap/Dropdown'
+import DropdownButton from 'react-bootstrap/DropdownButton'
+import ButtonGroup from 'react-bootstrap/ButtonGroup'
 
 function MyDropdown() {
   // 1. You must always close a tag
