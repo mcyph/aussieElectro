@@ -25,7 +25,7 @@
        {
          "type": "Feature",
          "properties": {
-            "capacity": 2720,
+            "capacity": 2640,
             "site": "Bayswater",
             "state": "NSW",
             "type": "Coal",
@@ -65,11 +65,11 @@
        {
          "type": "Feature",
          "properties": {
-            "capacity": 900,
+            "capacity": 840,
             "site": "Callide C",
             "state": "QLD",
             "type": "Coal",
-            "type2": "Brown Coal",
+            "type2": "Black Coal",
             "yearOpen": 1968,
             "yearStart": 1968,
             "yearEnd": 2046
@@ -149,7 +149,7 @@
             "site": "Hazelwood",
             "state": "VIC",
             "type": "Coal",
-            "type2": "Black Coal",
+            "type2": "Brown Coal",
             "yearOpen": 1978,
             "yearStart": 1978,
             "yearEnd": 2017
@@ -165,7 +165,7 @@
        {
          "type": "Feature",
          "properties": {
-            "capacity": 724,
+            "capacity": 744,
             "site": "Kogan Creek",
             "state": "QLD",
             "type": "Coal",
@@ -185,7 +185,7 @@
        {
          "type": "Feature",
          "properties": {
-            "capacity": 2080,
+            "capacity": 2000,
             "site": "Liddell",
             "state": "NSW",
             "type": "Coal",
@@ -205,7 +205,7 @@
        {
          "type": "Feature",
          "properties": {
-            "capacity": 2190,
+            "capacity": 2210,
             "site": "Loy Yang A",
             "state": "VIC",
             "type": "Coal",
@@ -225,7 +225,7 @@
        {
          "type": "Feature",
          "properties": {
-            "capacity": 965,
+            "capacity": 1000,
             "site": "Loy Yang B",
             "state": "VIC",
             "type": "Coal",
@@ -245,11 +245,11 @@
        {
          "type": "Feature",
          "properties": {
-            "capacity": 856,
+            "capacity": 852,
             "site": "Millmerran",
             "state": "QLD",
             "type": "Coal",
-            "type2": "Brown Coal",
+            "type2": "Black Coal",
             "yearOpen": 1968,
             "yearStart": 1968,
             "yearEnd": 2047
@@ -265,11 +265,11 @@
        {
          "type": "Feature",
          "properties": {
-            "capacity": 1340,
+            "capacity": 1400,
             "site": "Mt Piper",
             "state": "NSW",
             "type": "Coal",
-            "type2": "Brown Coal",
+            "type2": "Black Coal",
             "yearOpen": 1968,
             "yearStart": 1968,
             "yearEnd": 2038
@@ -329,7 +329,7 @@
             "site": "Playford B",
             "state": "SA",
             "type": "Coal",
-            "type2": "Black Coal",
+            "type2": "Brown Coal",
             "yearOpen": 1969,
             "yearStart": 1969,
             "yearEnd": 2012
@@ -349,7 +349,7 @@
             "site": "Redbank",
             "state": "NSW",
             "type": "Coal",
-            "type2": "Brown Coal",
+            "type2": "Black Coal",
             "yearOpen": 1968,
             "yearStart": 1968,
             "yearEnd": 2046
@@ -369,7 +369,7 @@
             "site": "Stanwell",
             "state": "QLD",
             "type": "Coal",
-            "type2": "Brown Coal",
+            "type2": "Black Coal",
             "yearOpen": 1968,
             "yearStart": 1968,
             "yearEnd": 2040
@@ -389,7 +389,7 @@
             "site": "Tarong",
             "state": "QLD",
             "type": "Coal",
-            "type2": "Brown Coal",
+            "type2": "Black Coal",
             "yearOpen": 1985,
             "yearStart": 1985,
             "yearEnd": 2030
@@ -429,7 +429,7 @@
             "site": "Vales Point B",
             "state": "NSW",
             "type": "Coal",
-            "type2": "Brown Coal",
+            "type2": "Black Coal",
             "yearOpen": 1960,
             "yearStart": 1960,
             "yearEnd": 2023
@@ -466,7 +466,7 @@
          "type": "Feature",
          "properties": {
             "capacity": 1480,
-            "site": "Yallourn",
+            "site": "Yallourn W",
             "state": "VIC",
             "type": "Coal",
             "type2": "Brown Coal",
@@ -479,6 +479,146 @@
             "coordinates": [
                146.3475084,
                -38.17759622
+            ]
+         }
+      },
+               {
+         "type": "Feature",
+         "properties": {
+            "capacity": 318.3,
+            "site": "Collie 1",
+            "state": "WA",
+            "type": "Coal",
+            "type2": "Black Coal",
+            "yearOpen": null,
+            "yearStart": null,
+            "yearEnd": null
+         },
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               116.262185,
+               -33.341509
+            ]
+         }
+      },
+                       {
+         "type": "Feature",
+         "properties": {
+            "capacity": 434,
+            "site": "Bluewaters",
+            "state": "WA",
+            "type": "Coal",
+            "type2": "Black Coal",
+            "yearOpen": null,
+            "yearStart": null,
+            "yearEnd": null
+         },
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               116.2259578,
+               -33.3306742
+            ]
+         }
+      },
+                               {
+         "type": "Feature",
+         "properties": {
+            "capacity": null,
+            "site": "Wallerawang",
+            "state": "NSW",
+            "type": "Coal",
+            "type2": "Black Coal",
+            "yearOpen": null,
+            "yearStart": null,
+            "yearEnd": null
+         },
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               150.084444,
+               -33.403889
+            ]
+         }
+      }
+                                       {
+         "type": "Feature",
+         "properties": {
+            "capacity": null,
+            "site": "Callide A",
+            "state": "QLD",
+            "type": "Coal",
+            "type2": "Black Coal",
+            "yearOpen": null,
+            "yearStart": null,
+            "yearEnd": null
+         },
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               150.6263216,
+               -24.33316877
+            ]
+         }
+      },
+                                       {
+         "type": "Feature",
+         "properties": {
+            "capacity": null,
+            "site": "Collinsville",
+            "state": "QLD",
+            "type": "Coal",
+            "type2": "Black Coal",
+            "yearOpen": null,
+            "yearStart": null,
+            "yearEnd": null
+         },
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               147.806944,
+               -20.543333
+            ]
+         }
+      },
+                                       {
+         "type": "Feature",
+         "properties": {
+            "capacity": null,
+            "site": "Swanbank B",
+            "state": "QLD",
+            "type": "Coal",
+            "type2": "Black Coal",
+            "yearOpen": null,
+            "yearStart": null,
+            "yearEnd": null
+         },
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               152.8186436,
+               -27.65528591
+            ]
+         }
+      },
+                                       {
+         "type": "Feature",
+         "properties": {
+            "capacity": 814.6,
+            "site": "Muja",
+            "state": "WA",
+            "type": "Coal",
+            "type2": "Black Coal",
+            "yearOpen": null,
+            "yearStart": null,
+            "yearEnd": null
+         },
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               116.306655,
+               -33.445811
             ]
          }
       }
