@@ -501,7 +501,7 @@
            "capacity": 9.9,
            "type2": "distillate",
            "type": "Distillate",
-           "site": "Geraldton diesel",
+           "site": "Tesla Geraldton",
            "state": "WA",
            "yearStart": 2010,
            "yearEnd": 9999
@@ -520,7 +520,7 @@
            "capacity": 9.9,
            "type2": "distillate",
            "type": "Distillate",
-           "site": "Kemerton diesel",
+           "site": "Tesla Kemerton",
            "state": "WA",
            "yearStart": 2010,
            "yearEnd": 9999
@@ -539,7 +539,7 @@
            "capacity": 9.9,
            "type2": "distillate",
            "type": "Distillate",
-           "site": "Northam diesel",
+           "site": "Tesla Northam",
            "state": "WA",
            "yearStart": 2010,
            "yearEnd": 9999
@@ -558,7 +558,7 @@
            "capacity": 9.9,
            "type2": "distillate",
            "type": "Distillate",
-           "site": "Picton diesel",
+           "site": "Tesla Picton",
            "state": "WA",
            "yearStart": 2010,
            "yearEnd": 9999
@@ -593,7 +593,7 @@
       {
         "type": "Feature",
         "properties": {
-           "capacity": 180,
+           "capacity": 217,
            "type2": "gas_ocgt",
            "type": "Gas",
            "site": "Hallett",
@@ -1543,7 +1543,7 @@
       {
         "type": "Feature",
         "properties": {
-           "capacity": 6,
+           "capacity": 12,
            "type2": "gas_recip",
            "type": "Gas",
            "site": "Wilga Park B",
@@ -1793,7 +1793,7 @@
            "capacity": 335,
            "type2": "gas_ccgt",
            "type": "Gas",
-           "site": "Newgen Kwinana",
+           "site": "Kwinana",
            "state": "WA",
            "yearStart": 2010,
            "yearEnd": 9999
@@ -1828,7 +1828,7 @@
       {
         "type": "Feature",
         "properties": {
-           "capacity": 600.6,
+           "capacity": 600.5,
            "type2": "gas_ocgt",
            "type": "Gas",
            "site": "Pinjar",
@@ -1866,7 +1866,7 @@
       {
         "type": "Feature",
         "properties": {
-           "capacity": 418,
+           "capacity": 436,
            "type2": "gas_ocgt",
            "type": "Gas",
            "site": "Wagerup",
@@ -2893,8 +2893,8 @@
         "type": "Feature",
         "properties": {
            "capacity": 1050,
-           "type2": "hydro",
-           "type": "Hydro",
+           "type2": "pumps",
+           "type": "Pumps",
            "site": "Wivenhoe",
            "state": "QLD",
            "yearStart": 2010,
@@ -3978,7 +3978,7 @@
            "capacity": 38,
            "type2": "solar",
            "type": "Solar2",
-           "site": "Limondale SF",
+           "site": "Limondale 2",
            "state": "NSW",
            "yearStart": 2010,
            "yearEnd": 9999
@@ -3994,7 +3994,7 @@
       {
         "type": "Feature",
         "properties": {
-           "capacity": 10,
+           "capacity": 40,
            "type2": "solar",
            "type": "Solar2",
            "site": "Greenough River",
@@ -4016,7 +4016,7 @@
            "capacity": 0.96,
            "type2": "solar",
            "type": "Solar2",
-           "site": "Metro",
+           "site": "Ambrisolar",
            "state": "WA",
            "yearStart": 2010,
            "yearEnd": 9999
@@ -4032,7 +4032,7 @@
       {
         "type": "Feature",
         "properties": {
-           "capacity": 7.753,
+           "capacity": 9.8,
            "type2": "solar",
            "type": "Solar2",
            "site": "Northam",
@@ -5495,7 +5495,7 @@
       {
         "type": "Feature",
         "properties": {
-           "capacity": 176,
+           "capacity": 285,
            "type2": "wind",
            "type": "Wind",
            "site": "Gullen Range",
@@ -6749,7 +6749,7 @@
       {
         "type": "Feature",
         "properties": {
-           "capacity": 179.982,
+           "capacity": 220,
            "type2": "battery_charging",
            "type": "Storage",
            "site": "Hornsdale Power Reserve",
@@ -6930,12 +6930,392 @@
         },
         "geometry": {
            "type": "Point",
-           "coordinates": [
+           "coordinates": 
               131.507014,
               -24.247453
            ]
         }
-     }
+     },
+     {
+        "type": "Feature",
+        "properties": {
+           "capacity": 25,
+           "type2": "battery_discharging",
+           "type": "Storage",
+           "site": "Lake Bonney Bessl",
+           "state": "SA",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              140.3846721,
+              -37.7387871
+           ]
+        }
+     },
+             {
+        "type": "Feature",
+        "properties": {
+           "capacity": null,
+           "type2": "bioenergy_biogas",
+           "type": "Waste",
+           "site": "Atlas",
+           "state": "WA",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              115.8182949,
+              -31.8644574
+           ]
+        }
+     },
+ {
+        "type": "Feature",
+        "properties": {
+           "capacity": 7,
+           "type2": "bioenergy_biogas",
+           "type": "Waste",
+           "site": "Berwick",
+           "state": "VIC",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              145.236257,
+              -37.940819
+           ]
+        }
+     },
+         {
+        "type": "Feature",
+        "properties": {
+           "capacity": 23,
+           "type2": "gas_ocgt",
+           "type": "Gas",
+           "site": "Southern Cross",
+           "state": "WA",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              121.6719012,
+              -31.1919033
+           ]
+        }
+     },
+         {
+        "type": "Feature",
+        "properties": {
+           "capacity": 5,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Brown Mour",
+           "state": "NSW",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              149.473997,
+              -36.594993
+           ]
+        }
+     },
+         {
+        "type": "Feature",
+        "properties": {
+           "capacity": 121,
+           "type2": "solar2",
+           "type": "Solar2",
+           "site": "Bomen",
+           "state": "NSW",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              null,
+              null
+           ]
+        }
+     },
+                 {
+        "type": "Feature",
+        "properties": {
+           "capacity": 5,
+           "type2": "solar2",
+           "type": "Solar2",
+           "site": "Brown Mour",
+           "state": "NSW",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              149.473997,
+              -36.594993
+           ]
+        }
+     },
+                 {
+        "type": "Feature",
+        "properties": {
+           "capacity": 85,
+           "type2": "solar2",
+           "type": "Solar2",
+           "site": "Goonumbla",
+           "state": "NSW",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              null,
+              null
+           ]
+        }
+     },
+                         {
+        "type": "Feature",
+        "properties": {
+           "capacity": 85,
+           "type2": "solar2",
+           "type": "Solar2",
+           "site": "Goonumbla",
+           "state": "NSW",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              null,
+              null
+           ]
+        }
+     },     
+                         {
+        "type": "Feature",
+        "properties": {
+           "capacity": 275,
+           "type2": "solar2",
+           "type": "Solar2",
+           "site": "Limondale SF",
+           "state": "NSW",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              143.5080463,
+              -34.7755018
+           ]
+        }
+     },
+                                 {
+        "type": "Feature",
+        "properties": {
+           "capacity": 57,
+           "type2": "solar2",
+           "type": "Solar2",
+           "site": "Hayman",
+           "state": "QLD",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              147.846065,
+              -20.536162
+           ]
+        }
+     },
+                                         {
+        "type": "Feature",
+        "properties": {
+           "capacity": 33,
+           "type2": "solar2",
+           "type": "Solar2",
+           "site": "Maryrorough",
+           "state": "QLD",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              null,
+              null
+           ]
+        }
+     },
+                                                 {
+        "type": "Feature",
+        "properties": {
+           "capacity": 121,
+           "type2": "solar2",
+           "type": "Solar2",
+           "site": "Yarranlea",
+           "state": "QLD",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              null,
+              null
+           ]
+        }
+     }, 
+     {
+        "type": "Feature",
+        "properties": {
+           "capacity": 197,
+           "type2": "wind",
+           "type": "Wind",
+           "site": "White Rock Wind",
+           "state": "QLD",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              null,
+              null
+           ]
+        }
+     },
+                                                 {
+        "type": "Feature",
+        "properties": {
+           "capacity": 148,
+           "type2": "wind",
+           "type": "Wind",
+           "site": "Cattle Hill",
+           "state": "TAS",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              146.6946935,
+              -42.1548445
+           ]
+        }
+     }, 
+                                                         {
+        "type": "Feature",
+        "properties": {
+           "capacity": 87,
+           "type2": "wind",
+           "type": "Wind",
+           "site": "Bulgana Green Hub",
+           "state": "VIC",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              null,
+              null
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 182,
+           "type2": "wind",
+           "type": "Wind",
+           "site": "Bulgana Green Power Hub - Units",
+           "state": "VIC",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              null,
+              null
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 57,
+           "type2": "wind",
+           "type": "Wind",
+           "site": "Cherry Tree",
+           "state": "VIC",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              null,
+              null
+           ]
+        }
+     },
+            {
+        "type": "Feature",
+        "properties": {
+           "capacity": 335,
+           "type2": "wind",
+           "type": "Wind",
+           "site": "Dundonnell",
+           "state": "VIC",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              142.9434538,
+              -37.8638943
+           ]
+        }
+     }, 
+            {
+        "type": "Feature",
+        "properties": {
+           "capacity": 83,
+           "type2": "wind",
+           "type": "Wind",
+           "site": "Elaine",
+           "state": "VIC",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              null,
+              null
+           ]
+        }
+     }        
      ]
     
  }
