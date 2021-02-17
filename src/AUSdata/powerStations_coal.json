@@ -1,7 +1,6 @@
 {
     "type":"FeatureCollection",
-    "features":
-    [
+    "features":[
        {
          "type": "Feature",
          "properties": {
@@ -541,7 +540,7 @@
                -33.403889
             ]
          }
-      }
+      },
                                        {
          "type": "Feature",
          "properties": {
