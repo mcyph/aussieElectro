@@ -13,8 +13,8 @@
            "yearEnd": 2015
         },
         "geometry": {
-            "type": "Point",
-            "coordinates": [
+           "type": "Point",
+           "coordinates": [
               138.577975,
               -34.882663
            ]
@@ -45,7 +45,7 @@
            "capacity": 1,
            "type2": "distillate",
            "type": "Distillate",
-            "site": "Bankstown Sports Club",
+           "site": "Bankstown Sports Club",
            "state": "NSW",
            "yearStart": 2010,
            "yearEnd": 2018
@@ -1885,6 +1885,1013 @@
       {
         "type": "Feature",
         "properties": {
+           "capacity": 12,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Banimboola",
+           "state": "VIC",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              147.459788,
+              -36.534524
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 60,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Barron Gorge",
+           "state": "QLD",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              145.6470493,
+              -16.85077013
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 80,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Bastyan",
+           "state": "TAS",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              145.5315885,
+              -41.73623091
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 19,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Burrendong",
+           "state": "NSW",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              149.108016,
+              -32.664647
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 5,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Brown Mountain",
+           "state": "NSW",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              149.473997,
+              -36.594993
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 27,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Burrinjuck",
+           "state": "NSW",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              148.5798905,
+              -35.00353222
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 15,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Butlers Gorge",
+           "state": "TAS",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              146.2621267,
+              -42.26710663
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 85,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Cethana",
+           "state": "TAS",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              146.134472,
+              -41.47985179
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 29,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Clover",
+           "state": "VIC",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              147.2195169,
+              -36.78515024
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 19,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Cluny",
+           "state": "TAS",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              146.6811229,
+              -42.50622857
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 22.5,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Copeton",
+           "state": "NSW",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              150.930235,
+              -29.907544
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 150,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Dartmouth",
+           "state": "VIC",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              147.5198723,
+              -36.55528977
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 60,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Devils Gate",
+           "state": "TAS",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              146.262709,
+              -41.34992471
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 120,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Eildon",
+           "state": "VIC",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              145.920966,
+              -37.22126231
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 5,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Eildon (Run of River)",
+           "state": "VIC",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              145.922582,
+              -37.221774
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 43,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Fisher",
+           "state": "TAS",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              146.2687394,
+              -41.67266234
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 5.5,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Glenbawn",
+           "state": "NSW",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              150.999481,
+              -32.107937
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 4,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Glenmaggie",
+           "state": "VIC",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              146.800388,
+              -37.904836
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 457,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Gordon",
+           "state": "TAS",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              145.9833753,
+              -42.74015707
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 1,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Hallam",
+           "state": "VIC",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              145.119964,
+              -38.143332
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 29,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Hume (NSW)",
+           "state": "NSW",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              147.0322634,
+              -36.10638251
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 29,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Hume (VIC)",
+           "state": "VIC",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              147.032572,
+              -36.106887
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 144,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "John Butters",
+           "state": "TAS",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              145.5365084,
+              -42.15589019
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 1,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Jindabyne (Mini Hydro)",
+           "state": "NSW",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              148.63057,
+              -36.434918
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 14,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Jounama (Mini Hydro)",
+           "state": "NSW",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              148.306384,
+              -35.561274
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 91,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Kareeya",
+           "state": "QLD",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              145.5768844,
+              -17.76645582
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 6,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Keepit",
+           "state": "NSW",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              150.491876,
+              -30.87868
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 82,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Lemonthyme/Wilmot",
+           "state": "TAS",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              146.1253375,
+              -41.48313525
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 197,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Catagunya/Liapootah/Wayatinah",
+           "state": "TAS",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              146.5098241,
+              -42.37613118
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 32,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Lake Echo",
+           "state": "TAS",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              146.6205148,
+              -42.25333893
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 80,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Mackintosh",
+           "state": "TAS",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              145.6465581,
+              -41.701363
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 106,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Bogong/Mackay",
+           "state": "VIC",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              147.2278447,
+              -36.80547095
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 64,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Meadowbank",
+           "state": "TAS",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              146.8463877,
+              -42.6108345
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 6,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Midlands",
+           "state": "TAS",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              147.274558,
+              -42.085747
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 1500,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Murray",
+           "state": "NSW",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              148.1885517,
+              -36.24599189
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 33,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Paloona",
+           "state": "TAS",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              146.2485805,
+              -41.28267954
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 6,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Pindari",
+           "state": "NSW",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              151.244774,
+              -29.388034
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 125,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Poatina",
+           "state": "TAS",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              146.9243655,
+              -41.80507321
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 200,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Poatina",
+           "state": "TAS",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              146.9243655,
+              -41.80507321
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 232,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Reece",
+           "state": "TAS",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              145.1364684,
+              -41.72313134
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 28,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Repulse",
+           "state": "TAS",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              146.6471698,
+              -42.50798689
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 11,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Rowallan",
+           "state": "TAS",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              146.2180869,
+              -41.72956983
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 13,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Rubicon",
+           "state": "VIC",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              145.8182024,
+              -37.29245322
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 616,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Tumut",
+           "state": "NSW",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              148.3696934,
+              -35.95349207
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 60,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Guthega",
+           "state": "NSW",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              148.4140302,
+              -36.34977248
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 80,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Blowering",
+           "state": "NSW",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              148.2472251,
+              -35.39740214
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 90,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Tarraleah",
+           "state": "TAS",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              146.456661,
+              -42.30173561
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 2,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Terminal Storage (Mini Hydro)",
+           "state": "SA",
+           "yearStart": 2010,
+           "yearEnd": 2017
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              138.712137,
+              -34.84014
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 3,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "The Drop",
+           "state": "NSW",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              145.999274,
+              -35.973527
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 93,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Trevallyn",
+           "state": "TAS",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              147.1120252,
+              -41.42230161
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 108,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Tribute",
+           "state": "TAS",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              145.6532519,
+              -41.81146829
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 125,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Tungatinah",
+           "state": "TAS",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              146.4558814,
+              -42.29639637
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 50,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Warragamba",
+           "state": "NSW",
+           "yearStart": 2010,
+           "yearEnd": 2013
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              150.595436,
+              -33.883064
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
            "capacity": 1050,
            "type2": "pumps",
            "type": "Pumps",
@@ -1898,6 +2905,101 @@
            "coordinates": [
               152.6323617,
               -27.37222377
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 5,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Wivenhoe (Mini Hydro)",
+           "state": "QLD",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              152.609237,
+              -27.394592
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 62,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "West Kiewa",
+           "state": "VIC",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              147.1860821,
+              -36.75967369
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 20,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Wyangala A",
+           "state": "NSW",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              148.947377,
+              -33.980371
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 4,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Wyangala B",
+           "state": "NSW",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              148.947377,
+              -33.980371
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 9,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Yarrawonga",
+           "state": "VIC",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              145.999568,
+              -36.009466
            ]
         }
      },
@@ -1955,994 +3057,6 @@
            "coordinates": [
               148.63057,
               -36.434918
-           ]
-        }
-     },
-      {
-        "type": "Feature",
-        "properties": {
-           "capacity": 17,
-           "type2": "solar",
-           "type": "Solar2",
-           "site": "Baking Board",
-           "state": "QLD",
-           "yearStart": 2010,
-           "yearEnd": 9999
-        },
-        "geometry": {
-           "type": "Point",
-           "coordinates": [
-              150.55417,
-              -26.721166
-           ]
-        }
-     },
-      {
-        "type": "Feature",
-        "properties": {
-           "capacity": 50,
-           "type2": "solar",
-           "type": "Solar2",
-           "site": "Bannerton",
-           "state": "VIC",
-           "yearStart": 2010,
-           "yearEnd": 9999
-        },
-        "geometry": {
-           "type": "Point",
-           "coordinates": [
-              142.750362,
-              -34.67263
-           ]
-        }
-     },
-      {
-        "type": "Feature",
-        "properties": {
-           "capacity": 10,
-           "type2": "solar",
-           "type": "Solar2",
-           "site": "Barcaldine",
-           "state": "QLD",
-           "yearStart": 2010,
-           "yearEnd": 9999
-        },
-        "geometry": {
-           "type": "Point",
-           "coordinates": [
-              145.318972,
-              -23.547333
-           ]
-        }
-     },
-      {
-        "type": "Feature",
-        "properties": {
-           "capacity": 98,
-           "type2": "solar",
-           "type": "Solar2",
-           "site": "Beryl",
-           "state": "NSW",
-           "yearStart": 2010,
-           "yearEnd": 9999
-        },
-        "geometry": {
-           "type": "Point",
-           "coordinates": [
-              149.460738,
-              -32.347501
-           ]
-        }
-     },
-      {
-        "type": "Feature",
-        "properties": {
-           "capacity": 135,
-           "type2": "solar",
-           "type": "Solar2",
-           "site": "Bungala One",
-           "state": "SA",
-           "yearStart": 2010,
-           "yearEnd": 9999
-        },
-        "geometry": {
-           "type": "Point",
-           "coordinates": [
-              137.841798,
-              -32.423316
-           ]
-        }
-     },
-      {
-        "type": "Feature",
-        "properties": {
-           "capacity": 135,
-           "type2": "solar",
-           "type": "Solar2",
-           "site": "Bungala Two",
-           "state": "SA",
-           "yearStart": 2010,
-           "yearEnd": 9999
-        },
-        "geometry": {
-           "type": "Point",
-           "coordinates": [
-              137.840933,
-              -32.406993
-           ]
-        }
-     },
-      {
-        "type": "Feature",
-        "properties": {
-           "capacity": 27,
-           "type2": "solar",
-           "type": "Solar2",
-           "site": "Broken Hill",
-           "state": "NSW",
-           "yearStart": 2010,
-           "yearEnd": 9999
-        },
-        "geometry": {
-           "type": "Point",
-           "coordinates": [
-              141.391547,
-              -31.988905
-           ]
-        }
-     },
-      {
-        "type": "Feature",
-        "properties": {
-           "capacity": 1,
-           "type2": "solar",
-           "type": "Solar2",
-           "site": "Capital East",
-           "state": "NSW",
-           "yearStart": 2010,
-           "yearEnd": 9999
-        },
-        "geometry": {
-           "type": "Point",
-           "coordinates": [
-              149.546482,
-              -35.180684
-           ]
-        }
-     },
-      {
-        "type": "Feature",
-        "properties": {
-           "capacity": 64,
-           "type2": "solar",
-           "type": "Solar2",
-           "site": "Childers",
-           "state": "QLD",
-           "yearStart": 2010,
-           "yearEnd": 9999
-        },
-        "geometry": {
-           "type": "Point",
-           "coordinates": [
-              152.403674,
-              -25.295027
-           ]
-        }
-     },
-      {
-        "type": "Feature",
-        "properties": {
-           "capacity": 110,
-           "type2": "solar",
-           "type": "Solar2",
-           "site": "Clare",
-           "state": "QLD",
-           "yearStart": 2010,
-           "yearEnd": 9999
-        },
-        "geometry": {
-           "type": "Point",
-           "coordinates": [
-              147.21055,
-              -19.83977
-           ]
-        }
-     },
-      {
-        "type": "Feature",
-        "properties": {
-           "capacity": 92,
-           "type2": "solar",
-           "type": "Solar2",
-           "site": "Clermont",
-           "state": "QLD",
-           "yearStart": 2010,
-           "yearEnd": 9999
-        },
-        "geometry": {
-           "type": "Point",
-           "coordinates": [
-              147.5460307,
-              -22.8394058
-           ]
-        }
-     },
-      {
-        "type": "Feature",
-        "properties": {
-           "capacity": 180,
-           "type2": "solar",
-           "type": "Solar2",
-           "site": "Coleambally",
-           "state": "NSW",
-           "yearStart": 2010,
-           "yearEnd": 9999
-        },
-        "geometry": {
-           "type": "Point",
-           "coordinates": [
-              145.92984,
-              -34.759494
-           ]
-        }
-     },
-      {
-        "type": "Feature",
-        "properties": {
-           "capacity": 42,
-           "type2": "solar",
-           "type": "Solar2",
-           "site": "Collinsville",
-           "state": "QLD",
-           "yearStart": 2010,
-           "yearEnd": 9999
-        },
-        "geometry": {
-           "type": "Point",
-           "coordinates": [
-              147.820552,
-              -20.55714
-           ]
-        }
-     },
-      {
-        "type": "Feature",
-        "properties": {
-           "capacity": 79,
-           "type2": "solar",
-           "type": "Solar2",
-           "site": "Daydream",
-           "state": "QLD",
-           "yearStart": 2010,
-           "yearEnd": 9999
-        },
-        "geometry": {
-           "type": "Point",
-           "coordinates": [
-              147.691968,
-              -20.512804
-           ]
-        }
-     },
-      {
-        "type": "Feature",
-        "properties": {
-           "capacity": 121,
-           "type2": "solar",
-           "type": "Solar2",
-           "site": "Darling Downs",
-           "state": "QLD",
-           "yearStart": 2010,
-           "yearEnd": 9999
-        },
-        "geometry": {
-           "type": "Point",
-           "coordinates": [
-              150.8819,
-              -27.112
-           ]
-        }
-     },
-      {
-        "type": "Feature",
-        "properties": {
-           "capacity": 88,
-           "type2": "solar",
-           "type": "Solar2",
-           "site": "Emerald",
-           "state": "QLD",
-           "yearStart": 2010,
-           "yearEnd": 9999
-        },
-        "geometry": {
-           "type": "Point",
-           "coordinates": [
-              148.128017,
-              -23.50879
-           ]
-        }
-     },
-      {
-        "type": "Feature",
-        "properties": {
-           "capacity": 162,
-           "type2": "solar",
-           "type": "Solar2",
-           "site": "Finley",
-           "state": "NSW",
-           "yearStart": 2010,
-           "yearEnd": 9999
-        },
-        "geometry": {
-           "type": "Point",
-           "coordinates": [
-              145.508644,
-              -35.64421
-           ]
-        }
-     },
-      {
-        "type": "Feature",
-        "properties": {
-           "capacity": 25,
-           "type2": "solar",
-           "type": "Solar2",
-           "site": "Gannawarra",
-           "state": "VIC",
-           "yearStart": 2010,
-           "yearEnd": 9999
-        },
-        "geometry": {
-           "type": "Point",
-           "coordinates": [
-              143.7711,
-              -35.73
-           ]
-        }
-     },
-      {
-        "type": "Feature",
-        "properties": {
-           "capacity": 27,
-           "type2": "solar",
-           "type": "Solar2",
-           "site": "Griffith",
-           "state": "NSW",
-           "yearStart": 2010,
-           "yearEnd": 9999
-        },
-        "geometry": {
-           "type": "Point",
-           "coordinates": [
-              146.120739,
-              -34.317414
-           ]
-        }
-     },
-      {
-        "type": "Feature",
-        "properties": {
-           "capacity": 57,
-           "type2": "solar",
-           "type": "Solar2",
-           "site": "Hamilton",
-           "state": "QLD",
-           "yearStart": 2010,
-           "yearEnd": 9999
-        },
-        "geometry": {
-           "type": "Point",
-           "coordinates": [
-              147.799484,
-              -20.468593
-           ]
-        }
-     },
-      {
-        "type": "Feature",
-        "properties": {
-           "capacity": 132,
-           "type2": "solar",
-           "type": "Solar2",
-           "site": "Haughton",
-           "state": "QLD",
-           "yearStart": 2010,
-           "yearEnd": 9999
-        },
-        "geometry": {
-           "type": "Point",
-           "coordinates": [
-              147.076137,
-              -19.732168
-           ]
-        }
-     },
-      {
-        "type": "Feature",
-        "properties": {
-           "capacity": 57,
-           "type2": "solar",
-           "type": "Solar2",
-           "site": "Hayman",
-           "state": "QLD",
-           "yearStart": 2010,
-           "yearEnd": 9999
-        },
-        "geometry": {
-           "type": "Point",
-           "coordinates": [
-              147.846065,
-              -20.536162
-           ]
-        }
-     },
-      {
-        "type": "Feature",
-        "properties": {
-           "capacity": 10,
-           "type2": "solar",
-           "type": "Solar2",
-           "site": "Hughenden",
-           "state": "QLD",
-           "yearStart": 2010,
-           "yearEnd": 9999
-        },
-        "geometry": {
-           "type": "Point",
-           "coordinates": [
-              144.186048,
-              -20.854794
-           ]
-        }
-     },
-      {
-        "type": "Feature",
-        "properties": {
-           "capacity": 104,
-           "type2": "solar",
-           "type": "Solar2",
-           "site": "Karadoc",
-           "state": "VIC",
-           "yearStart": 2010,
-           "yearEnd": 9999
-        },
-        "geometry": {
-           "type": "Point",
-           "coordinates": [
-              142.28033,
-              -34.227904
-           ]
-        }
-     },
-      {
-        "type": "Feature",
-        "properties": {
-           "capacity": 50,
-           "type2": "solar",
-           "type": "Solar2",
-           "site": "Kidston",
-           "state": "QLD",
-           "yearStart": 2010,
-           "yearEnd": 9999
-        },
-        "geometry": {
-           "type": "Point",
-           "coordinates": [
-              144.151,
-              -18.88
-           ]
-        }
-     },
-      {
-        "type": "Feature",
-        "properties": {
-           "capacity": 118,
-           "type2": "solar",
-           "type": "Solar2",
-           "site": "Lilyvale",
-           "state": "QLD",
-           "yearStart": 2010,
-           "yearEnd": 9999
-        },
-        "geometry": {
-           "type": "Point",
-           "coordinates": [
-              148.413865,
-              -23.070504
-           ]
-        }
-     },
-      {
-        "type": "Feature",
-        "properties": {
-           "capacity": 17,
-           "type2": "solar",
-           "type": "Solar2",
-           "site": "Longreach",
-           "state": "QLD",
-           "yearStart": 2010,
-           "yearEnd": 9999
-        },
-        "geometry": {
-           "type": "Point",
-           "coordinates": [
-              144.227917,
-              -23.455048
-           ]
-        }
-     },
-      {
-        "type": "Feature",
-        "properties": {
-           "capacity": 25,
-           "type2": "solar",
-           "type": "Solar2",
-           "site": "Manildra",
-           "state": "NSW",
-           "yearStart": 2010,
-           "yearEnd": 9999
-        },
-        "geometry": {
-           "type": "Point",
-           "coordinates": [
-              148.71824,
-              -33.172831
-           ]
-        }
-     },
-      {
-        "type": "Feature",
-        "properties": {
-           "capacity": 12,
-           "type2": "solar",
-           "type": "Solar2",
-           "site": "Mugga Lane",
-           "state": "ACT",
-           "yearStart": 2010,
-           "yearEnd": 9999
-        },
-        "geometry": {
-           "type": "Point",
-           "coordinates": [
-              149.14906,
-              -35.398441
-           ]
-        }
-     },
-      {
-        "type": "Feature",
-        "properties": {
-           "capacity": 57,
-           "type2": "solar",
-           "type": "Solar2",
-           "site": "Moree",
-           "state": "NSW",
-           "yearStart": 2010,
-           "yearEnd": 9999
-        },
-        "geometry": {
-           "type": "Point",
-           "coordinates": [
-              149.861266,
-              -29.572607
-           ]
-        }
-     },
-      {
-        "type": "Feature",
-        "properties": {
-           "capacity": 10,
-           "type2": "solar",
-           "type": "Solar2",
-           "site": "Narromine",
-           "state": "NSW",
-           "yearStart": 2010,
-           "yearEnd": 9999
-        },
-        "geometry": {
-           "type": "Point",
-           "coordinates": [
-              148.254523,
-              -32.218323
-           ]
-        }
-     },
-      {
-        "type": "Feature",
-        "properties": {
-           "capacity": 132,
-           "type2": "solar",
-           "type": "Solar2",
-           "site": "Nevertire",
-           "state": "NSW",
-           "yearStart": 2010,
-           "yearEnd": 9999
-        },
-        "geometry": {
-           "type": "Point",
-           "coordinates": [
-              147.7051778,
-              -31.8310438
-           ]
-        }
-     },
-      {
-        "type": "Feature",
-        "properties": {
-           "capacity": 74,
-           "type2": "solar",
-           "type": "Solar2",
-           "site": "Numurkah",
-           "state": "VIC",
-           "yearStart": 2010,
-           "yearEnd": 9999
-        },
-        "geometry": {
-           "type": "Point",
-           "coordinates": [
-              145.473891,
-              -36.159275
-           ]
-        }
-     },
-      {
-        "type": "Feature",
-        "properties": {
-           "capacity": 102,
-           "type2": "solar",
-           "type": "Solar2",
-           "site": "Nyngan",
-           "state": "NSW",
-           "yearStart": 2010,
-           "yearEnd": 9999
-        },
-        "geometry": {
-           "type": "Point",
-           "coordinates": [
-              147.0741951,
-              -31.56319134
-           ]
-        }
-     },
-      {
-        "type": "Feature",
-        "properties": {
-           "capacity": 30,
-           "type2": "solar",
-           "type": "Solar2",
-           "site": "Oakey 1",
-           "state": "QLD",
-           "yearStart": 2010,
-           "yearEnd": 9999
-        },
-        "geometry": {
-           "type": "Point",
-           "coordinates": [
-              151.6425757,
-              -27.402454
-           ]
-        }
-     },
-      {
-        "type": "Feature",
-        "properties": {
-           "capacity": 65,
-           "type2": "solar",
-           "type": "Solar2",
-           "site": "Oakey 2",
-           "state": "QLD",
-           "yearStart": 2010,
-           "yearEnd": 9999
-        },
-        "geometry": {
-           "type": "Point",
-           "coordinates": [
-              151.6425757,
-              -27.402454
-           ]
-        }
-     },
-      {
-        "type": "Feature",
-        "properties": {
-           "capacity": 55,
-           "type2": "solar",
-           "type": "Solar2",
-           "site": "Parkes",
-           "state": "NSW",
-           "yearStart": 2010,
-           "yearEnd": 9999
-        },
-        "geometry": {
-           "type": "Point",
-           "coordinates": [
-              148.076372,
-              -33.113056
-           ]
-        }
-     },
-      {
-        "type": "Feature",
-        "properties": {
-           "capacity": 20,
-           "type2": "solar",
-           "type": "Solar2",
-           "site": "Royalla",
-           "state": "ACT",
-           "yearStart": 2010,
-           "yearEnd": 9999
-        },
-        "geometry": {
-           "type": "Point",
-           "coordinates": [
-              149.1419657,
-              -35.48605246
-           ]
-        }
-     },
-      {
-        "type": "Feature",
-        "properties": {
-           "capacity": 128,
-           "type2": "solar",
-           "type": "Solar2",
-           "site": "Ross River",
-           "state": "QLD",
-           "yearStart": 2010,
-           "yearEnd": 9999
-        },
-        "geometry": {
-           "type": "Point",
-           "coordinates": [
-              146.715686,
-              -19.425305
-           ]
-        }
-     },
-      {
-        "type": "Feature",
-        "properties": {
-           "capacity": 83,
-           "type2": "solar",
-           "type": "Solar2",
-           "site": "Rugby Run",
-           "state": "QLD",
-           "yearStart": 2010,
-           "yearEnd": 9999
-        },
-        "geometry": {
-           "type": "Point",
-           "coordinates": [
-              147.880877,
-              -21.940469
-           ]
-        }
-     },
-      {
-        "type": "Feature",
-        "properties": {
-           "capacity": 15,
-           "type2": "solar",
-           "type": "Solar2",
-           "site": "South Keswick",
-           "state": "NSW",
-           "yearStart": 2010,
-           "yearEnd": 9999
-        },
-        "geometry": {
-           "type": "Point",
-           "coordinates": [
-              148.649836,
-              -32.27286
-           ]
-        }
-     },
-      {
-        "type": "Feature",
-        "properties": {
-           "capacity": 117,
-           "type2": "solar",
-           "type": "Solar2",
-           "site": "Sun Metals",
-           "state": "QLD",
-           "yearStart": 2010,
-           "yearEnd": 9999
-        },
-        "geometry": {
-           "type": "Point",
-           "coordinates": [
-              146.696015,
-              -19.437318
-           ]
-        }
-     },
-      {
-        "type": "Feature",
-        "properties": {
-           "capacity": 85,
-           "type2": "solar",
-           "type": "Solar2",
-           "site": "Susan River",
-           "state": "QLD",
-           "yearStart": 2010,
-           "yearEnd": 9999
-        },
-        "geometry": {
-           "type": "Point",
-           "coordinates": [
-              152.742028,
-              -25.420275
-           ]
-        }
-     },
-      {
-        "type": "Feature",
-        "properties": {
-           "capacity": 108,
-           "type2": "solar",
-           "type": "Solar2",
-           "site": "Tailem Bend  1",
-           "state": "SA",
-           "yearStart": 2010,
-           "yearEnd": 9999
-        },
-        "geometry": {
-           "type": "Point",
-           "coordinates": [
-              139.49,
-              -35.28
-           ]
-        }
-     },
-      {
-        "type": "Feature",
-        "properties": {
-           "capacity": 15,
-           "type2": "solar",
-           "type": "Solar2",
-           "site": "Sunshine Coast",
-           "state": "QLD",
-           "yearStart": 2010,
-           "yearEnd": 9999
-        },
-        "geometry": {
-           "type": "Point",
-           "coordinates": [
-              153.025947,
-              -26.560799
-           ]
-        }
-     },
-      {
-        "type": "Feature",
-        "properties": {
-           "capacity": 97,
-           "type2": "solar",
-           "type": "Solar2",
-           "site": "Wemen",
-           "state": "VIC",
-           "yearStart": 2010,
-           "yearEnd": 9999
-        },
-        "geometry": {
-           "type": "Point",
-           "coordinates": [
-              142.543348,
-              -34.80259
-           ]
-        }
-     },
-      {
-        "type": "Feature",
-        "properties": {
-           "capacity": 57,
-           "type2": "solar",
-           "type": "Solar2",
-           "site": "Whitsunday",
-           "state": "QLD",
-           "yearStart": 2010,
-           "yearEnd": 9999
-        },
-        "geometry": {
-           "type": "Point",
-           "coordinates": [
-              147.80475,
-              -20.537259
-           ]
-        }
-     },
-      {
-        "type": "Feature",
-        "properties": {
-           "capacity": 22,
-           "type2": "solar",
-           "type": "Solar2",
-           "site": "White Rock",
-           "state": "NSW",
-           "yearStart": 2010,
-           "yearEnd": 9999
-        },
-        "geometry": {
-           "type": "Point",
-           "coordinates": [
-              151.5502083,
-              -29.7632925
-           ]
-        }
-     },
-      {
-        "type": "Feature",
-        "properties": {
-           "capacity": 38,
-           "type2": "solar",
-           "type": "Solar2",
-           "site": "Limondale 2",
-           "state": "NSW",
-           "yearStart": 2010,
-           "yearEnd": 9999
-        },
-        "geometry": {
-           "type": "Point",
-           "coordinates": [
-              143.5080463,
-              -34.7755018
-           ]
-        }
-     },
-      {
-        "type": "Feature",
-        "properties": {
-           "capacity": 40,
-           "type2": "solar",
-           "type": "Solar2",
-           "site": "Greenough River",
-           "state": "WA",
-           "yearStart": 2010,
-           "yearEnd": 9999
-        },
-        "geometry": {
-           "type": "Point",
-           "coordinates": [
-              115.1093701,
-              -28.9038103
-           ]
-        }
-     },
-      {
-        "type": "Feature",
-        "properties": {
-           "capacity": 0.96,
-           "type2": "solar",
-           "type": "Solar2",
-           "site": "Ambrisolar",
-           "state": "WA",
-           "yearStart": 2010,
-           "yearEnd": 9999
-        },
-        "geometry": {
-           "type": "Point",
-           "coordinates": [
-              115.8084562,
-              -32.1033849
-           ]
-        }
-     },
-      {
-        "type": "Feature",
-        "properties": {
-           "capacity": 9.8,
-           "type2": "solar",
-           "type": "Solar2",
-           "site": "Northam",
-           "state": "WA",
-           "yearStart": 2010,
-           "yearEnd": 9999
-        },
-        "geometry": {
-           "type": "Point",
-           "coordinates": [
-              116.7115411,
-              -31.6516099
            ]
         }
      },
@@ -4048,7 +4162,6 @@
            ]
         }
      },
-
       {
         "type": "Feature",
         "properties": {
@@ -4271,9 +4384,9 @@
         },
         "geometry": {
            "type": "Point",
-           "coordinates": 
+           "coordinates":[
               131.507014,
-            -24.247453
+              -24.247453
            ]
         }
      },
@@ -4352,7 +4465,6 @@
               -31.1919033
            ]
         }
-     }   
+     } 
   ]
-    
  }
