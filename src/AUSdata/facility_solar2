@@ -1,0 +1,158 @@
+        {
+    "type":"FeatureCollection",
+    "features":[
+     {
+        "type": "Feature",
+        "properties": {
+           "capacity": 121,
+           "type2": "solar2",
+           "type": "Solar2",
+           "site": "Bomen",
+           "state": "NSW",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              null,
+              null
+           ]
+        }
+     },
+                 {
+        "type": "Feature",
+        "properties": {
+           "capacity": 5,
+           "type2": "solar2",
+           "type": "Solar2",
+           "site": "Brown Mour",
+           "state": "NSW",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              149.473997,
+              -36.594993
+           ]
+        }
+     },
+                 {
+        "type": "Feature",
+        "properties": {
+           "capacity": 85,
+           "type2": "solar2",
+           "type": "Solar2",
+           "site": "Goonumbla",
+           "state": "NSW",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              null,
+              null
+           ]
+        }
+     },
+                         {
+        "type": "Feature",
+        "properties": {
+           "capacity": 85,
+           "type2": "solar2",
+           "type": "Solar2",
+           "site": "Goonumbla",
+           "state": "NSW",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              null,
+              null
+           ]
+        }
+     },     
+                         {
+        "type": "Feature",
+        "properties": {
+           "capacity": 275,
+           "type2": "solar2",
+           "type": "Solar2",
+           "site": "Limondale SF",
+           "state": "NSW",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              143.5080463,
+              -34.7755018
+           ]
+        }
+     },
+   {
+        "type": "Feature",
+        "properties": {
+           "capacity": 57,
+           "type2": "solar2",
+           "type": "Solar2",
+           "site": "Hayman",
+           "state": "QLD",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              147.846065,
+              -20.536162
+           ]
+        }
+     },
+   {
+        "type": "Feature",
+        "properties": {
+           "capacity": 33,
+           "type2": "solar2",
+           "type": "Solar2",
+           "site": "Maryrorough",
+           "state": "QLD",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              null,
+              null
+           ]
+        }
+     },
+{
+        "type": "Feature",
+        "properties": {
+           "capacity": 121,
+           "type2": "solar2",
+           "type": "Solar2",
+           "site": "Yarranlea",
+           "state": "QLD",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              null,
+              null
+           ]
+        }
+     }
+     ]
+     
+     }
