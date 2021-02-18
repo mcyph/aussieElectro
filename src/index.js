@@ -9,8 +9,8 @@ import dataCoal from './AUSdata/powerStations_coal.json'
 import dataSolar from './AUSdata/powerStations_solar.json'
 import currentData from "./AUSdata/facility_registry.json"
 import dataHydro from "./AUSdata/facility_hydro.json"
-import dataWind from "./Ausdata/facility_wind.json"
-import dataSolar2 from "./Ausdata/facility_solar2.json"
+import dataWind from "./AUSdata/facility_wind.json"
+import dataSolar2 from "./AUSdata/facility_solar2.json"
 import MapFunctions from './MapFunctions';
 import sectiondata from './playdata/sections.json'
 import ScrollIntoView from 'react-scroll-into-view'
