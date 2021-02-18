@@ -989,6 +989,121 @@
            ]
         }
      },
+              {
+        "type": "Feature",
+        "properties": {
+           "capacity": 5,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Wivenhoe (Mini Hydro)",
+           "state": "QLD",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              152.609237,
+              -27.394592
+           ]
+        }
+     }, 
+        {
+        "type": "Feature",
+        "properties": {
+           "capacity": 9,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Yarrawonga",
+           "state": "VIC",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              145.999568,
+              -36.009466
+           ]
+        }
+     },    
+        {
+        "type": "Feature",
+        "properties": {
+           "capacity": 4,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Wyangala B",
+           "state": "NSW",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              148.947377,
+              -33.980371
+           ]
+        }
+     }, 
+        {
+        "type": "Feature",
+        "properties": {
+           "capacity": 20,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Wyangala A",
+           "state": "NSW",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              148.947377,
+              -33.980371
+           ]
+        }
+     },
+      {
+        "type": "Feature",
+        "properties": {
+           "capacity": 62,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "West Kiewa",
+           "state": "VIC",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              147.1860821,
+              -36.75967369
+           ]
+        }
+     },
+        {
+        "type": "Feature",
+        "properties": {
+           "capacity": 5,
+           "type2": "hydro",
+           "type": "Hydro",
+           "site": "Brown Mour",
+           "state": "NSW",
+           "yearStart": 2010,
+           "yearEnd": 9999
+        },
+        "geometry": {
+           "type": "Point",
+           "coordinates": [
+              149.473997,
+              -36.594993
+           ]
+        }
+     },  
+        
       {
         "type": "Feature",
         "properties": {
