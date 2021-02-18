@@ -8,6 +8,9 @@ import StoryPanel from './StoryPanel.js'
 import dataCoal from './AUSdata/powerStations_coal.json'
 import dataSolar from './AUSdata/powerStations_solar.json'
 import currentData from "./AUSdata/facility_registry.json"
+import dataHydro from "./AUSdata/facility_hydro.json"
+import dataWind from "./Ausdata/facility_wind.json"
+import dataSolar2 from "./Ausdata/facility_solar2.json"
 import MapFunctions from './MapFunctions';
 import sectiondata from './playdata/sections.json'
 import ScrollIntoView from 'react-scroll-into-view'
@@ -400,7 +403,7 @@ class ScrollyTeller extends Component {
                         )}
                     </div>
                     <StackedBar height={this.state.panelHeight-70} percentages={this.state.percentages} />
-                    <MapFunctions types={this.state.types} coalData={dataCoal} debug={ this.m_debug} currentData={currentData} solarData={dataSolar} height={this.state.panelHeight} activeYear={this.state.sections !== undefined ? this.state.sections[this.state.activeId].year : "1950"} />
+                    <MapFunctions types={this.state.types} coalData={dataCoal} debug={ this.m_debug} currentData={currentData,dataWind,dataHydro} solarData={dataSolar,dataSolar2} height={this.state.panelHeight} activeYear={this.state.sections !== undefined ? this.state.sections[this.state.activeId].year : "1950"} />
 
                 </div>
             </div>
