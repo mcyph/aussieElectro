@@ -13,8 +13,8 @@
            "yearEnd": 2015
         },
         "geometry": {
-           "type": "Point",
-           "coordinates": [
+            "type": "Point",
+            "coordinates": [
               138.577975,
               -34.882663
            ]
@@ -45,7 +45,7 @@
            "capacity": 1,
            "type2": "distillate",
            "type": "Distillate",
-           "site": "Bankstown Sports Club",
+            "site": "Bankstown Sports Club",
            "state": "NSW",
            "yearStart": 2010,
            "yearEnd": 2018
@@ -6932,7 +6932,7 @@
            "type": "Point",
            "coordinates": 
               131.507014,
-              -24.247453
+            -24.247453
            ]
         }
      },
