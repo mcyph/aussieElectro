@@ -1,3 +1,3 @@
 export default class Config  {
-    mapboxKey = "pk.eyJ1IjoiZGFuaW1qcyIsImEiOiJja2xicG9oMDUzMW5vMnFxanBxaHlkbDU4In0.DK3TRba9aY2etY91I2wI1A"
+    mapboxKey = "sk.eyJ1IjoiZGFuaW1qcyIsImEiOiJja2xicXp3YXMxZG5vMnBtdmR6aDVhc3NhIn0.oF_1A4-bC5UkSoUIJetXbg"
 }
