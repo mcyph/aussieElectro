@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/aussieElectro/static/css/main.685fad65.chunk.css",
-    "main.js": "/aussieElectro/static/js/main.8bdbcecf.chunk.js",
-    "main.js.map": "/aussieElectro/static/js/main.8bdbcecf.chunk.js.map",
+    "main.js": "/aussieElectro/static/js/main.ab6fb7c6.chunk.js",
+    "main.js.map": "/aussieElectro/static/js/main.ab6fb7c6.chunk.js.map",
     "runtime-main.js": "/aussieElectro/static/js/runtime-main.06599b42.js",
     "runtime-main.js.map": "/aussieElectro/static/js/runtime-main.06599b42.js.map",
     "static/js/2.2c2a9ed5.chunk.js": "/aussieElectro/static/js/2.2c2a9ed5.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.06599b42.js",
     "static/js/2.2c2a9ed5.chunk.js",
     "static/css/main.685fad65.chunk.css",
-    "static/js/main.8bdbcecf.chunk.js"
+    "static/js/main.ab6fb7c6.chunk.js"
   ]
 }
