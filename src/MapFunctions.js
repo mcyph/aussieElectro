@@ -67,6 +67,7 @@ export default class MapFunctions extends Component {
                     cluster: false,
                     clusterMaxZoom:6,
                     clusterRadius: 50
+                
                 })
 
                 this.map.addSource('currentFacilities', {
