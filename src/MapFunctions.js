@@ -39,7 +39,7 @@ export default class MapFunctions extends Component {
 
     init() {
         if (!this.m_initiated) {
-            mapboxgl.accessToken = "pk.eyJ1Ijoibm9yYWhhbWEiLCJhIjoiY2ptaGFsZDR5MThrczN1dDhtajc1cTFmMSJ9.VEUImGmfsM77LfjErYxDdQ"
+            mapboxgl.accessToken = "pk.eyJ1IjoiZGFuaW1qcyIsImEiOiJja2xib2Nscncwc2gzMnhueGpyNmY0d3h3In0._PacZq2T6eoYW7VxCzAkpQ"
             this.map = new mapboxgl.Map({
                 container: "map",
                 style: "mapbox://styles/mapbox/streets-v9",
