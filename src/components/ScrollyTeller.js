@@ -400,8 +400,8 @@ class ScrollyTeller extends Component {
                     <MapVisualization types={this.state.types}
                                       coalData={dataCoal}
                                       debug={ this.m_debug}
-                                      currentData={[currentData,dataWind,dataHydro]}
-                                      solarData={[dataSolar,dataSolar2]}
+                                      currentData={currentData}
+                                      solarData={dataSolar}
                                       height={this.state.panelHeight}
                                       activeYear={this.state.sections !== undefined ? this.state.sections[this.state.activeId].year : "1950"} />
 
