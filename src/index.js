@@ -11,7 +11,7 @@ import currentData from "./AUSdata/facility_registry.json"
 import dataHydro from "./AUSdata/facility_hydro.json"
 import dataWind from "./AUSdata/facility_wind.json"
 import dataSolar2 from "./AUSdata/facility_solar2.json"
-import MapFunctions from './MapFunctions';
+import MapFunctions from './MapFunctions.js';
 import sectiondata from './playdata/sections.json'
 import ScrollIntoView from 'react-scroll-into-view'
 import Stackedbarchart from './stacked-bar.js'
