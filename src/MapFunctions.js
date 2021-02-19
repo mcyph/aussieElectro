@@ -42,7 +42,7 @@ export default class MapFunctions extends Component {
             mapboxgl.accessToken = "pk.eyJ1IjoiZGFuaW1qcyIsImEiOiJja2xicG9oMDUzMW5vMnFxanBxaHlkbDU4In0.DK3TRba9aY2etY91I2wI1A"
             this.map = new mapboxgl.Map({
                 container: "map",
-                style: "mapbox://styles/mapbox/streets-v9",
+                style: "mapbox://styles/mapbox/streets-v11",
                 zoom: [4],
                 center: [140.7751, -38.2744]
             })
