@@ -1,9 +1,11 @@
-import React from 'react';
 import './App.css';
-import ReactMapboxGl, { Layer, Feature } from 'react-mapbox-gl';
-import { render } from '@testing-library/react';
+import React from 'react';
+import ScrollyTeller from "./components/ScrollyTeller";
 
 function App() {
+    return <>
+        <ScrollyTeller />
+    </>;
+}
 
-  
 export default App;
